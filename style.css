@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.725), rgba(0, 0, 0, 0.725)), url('images/header.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.725), rgba(0, 0, 0, 0.725)), url('https://pin.it/N573GaQ');
     background-size: cover;
     background-position: center 21%;
     padding: 80px 40px;
