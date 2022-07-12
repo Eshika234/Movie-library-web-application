@@ -8,6 +8,9 @@ Auth-implementaion using Firebase
 https://firebase.google.com
 
 For Deployment
-httos://www.heroku.com/
+https://app.netlify.com/
+
+For preview
+https://movielibrarywebauth.netlify.app
 
 
